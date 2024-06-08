@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173028510132",
+    "firebase_url": "https://civil-defense-c24d3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "civil-defense-c24d3",
+    "storage_bucket": "civil-defense-c24d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173028510132:android:d121c01c6061d9dd554ae1",
+        "android_client_info": {
+          "package_name": "com.Tetco.CivilDefense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XRDQ7rqX38tcbqEhg800XTbZiiuZqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
